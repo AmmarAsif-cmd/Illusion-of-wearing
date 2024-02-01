@@ -1,10 +1,10 @@
 # Illusion of Wearing
 
-Welcome to the "Illusion of Wearing" project repository – a Python script for virtual clothing overlay on live webcam feed.
+Welcome to the "Illusion of Wearing" project repository – a Python script for virtual clothing overlay on live webcam feed with Django integration for web-based interaction.
 
 ## Overview
 
-This script utilizes computer vision and deep learning to detect key body points and overlays virtual clothing items such as shirts and pants on a person in real-time through a webcam feed.
+This project combines computer vision, deep learning, and Django to provide an interactive virtual clothing experience. The script detects key body points and overlays virtual clothing items such as shirts and pants on a person in real-time through a webcam feed. Additionally, the project includes a web interface built with Django for a more immersive and user-friendly experience.
 
 ## Requirements
 
@@ -16,13 +16,14 @@ This script utilizes computer vision and deep learning to detect key body points
 - NumPy
 - tqdm
 - Matplotlib
+- Django
 
 ## Usage
 
 1. Install the required dependencies:
 
    ```bash
-   pip install opencv-python mxnet gluoncv imutils numpy tqdm matplotlib
+   pip install opencv-python mxnet gluoncv imutils numpy tqdm matplotlib django
 
 ## Getting Started
 
