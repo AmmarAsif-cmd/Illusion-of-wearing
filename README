@@ -1,0 +1,19 @@
+# Illusion of Wearing
+
+Welcome to the "Illusion of Wearing" project repository – your gateway to a cutting-edge virtual clothing platform. This project, developed as part of my final year endeavor, combines technology and fashion, offering an immersive experience to explore and experiment with digital garments.
+
+## Overview
+
+"Illusion of Wearing" is a virtual wardrobe where users can visualize and redefine their style through a curated collection of digital outfits. As my final year project, it aims to showcase the seamless integration of technology and creativity, bringing a novel dimension to the world of fashion.
+
+## Key Features
+
+- **Digital Wardrobe:** Explore a diverse collection of virtual garments, from casual wear to high-end fashion.
+- **Mix and Match:** Experiment with outfits, colors, and patterns to visualize and refine your personal style.
+- **Immersive Experience:** Step into a world where the line between reality and illusion blurs, creating a unique fashion exploration.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/AmmarAsif-cmd/illusion-of-wearing.git
